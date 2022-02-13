@@ -1,9 +1,9 @@
 import React, { Component } from "react";
 import "./App.css";
-import FeedbackOptions from "./components/FeedbackOptions/feedbackoptions";
-import Section from "components/Section/section";
-import Statistics from "./components/Statistics/statistics"
-import Notification from "./components/Notification/notification"
+import FeedbackOptions from "./components/FeedbackOptions";
+import Section from "./components/Section";
+import Statistics from "./components/Statistics"
+import Notification from "./components/Notification"
 
 
 export default class App extends Component { 
